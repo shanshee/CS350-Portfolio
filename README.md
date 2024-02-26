@@ -20,10 +20,10 @@ The original version of the Travlr Getaways application as developed in the CS35
 https://travlr-booking-app.onrender.com/
 
 ## Testing Stripe Payments
--Test Card Number: 4242 4242 4242 42424
--Expiration: Any future date
--CVC: Any three digit number
--Zipcode: Any five digit number
+Test Card Number: 4242 4242 4242 42424                                                                                          
+Expiration: Any future date                                                                                                     
+CVC: Any three digit number                                                                                                      
+Zipcode: Any five digit number                                                                                                   
 
 It might take a few minutes to load due to host site being dormant
 
