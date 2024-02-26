@@ -19,6 +19,9 @@ The original version of the Travlr Getaways application as developed in the CS35
 ## Live Demo URL for Travlr Booking App 
 https://travlr-booking-app.onrender.com/
 
+## Functionality
+1. Create an Account                                                                                                             2. Log In to Search, View and Book Hotels.                                                                                       
+
 ## Testing Stripe Payments
 Test Card Number: 4242 4242 4242 42424                                                                                          
 Expiration: Any future date                                                                                                     
